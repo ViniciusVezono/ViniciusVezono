@@ -12,3 +12,8 @@ Here are some ideas to get you started:
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ViniciusVezono&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ViniciusVezono&hide=css,blade,html&layout=pie&&theme=radical)
+
+##
+ ![Snake animation](https://github.com/ViniciusVezono/ViniciusVezono/blob/output/github-contribution-grid-snake.svg)
+
+
