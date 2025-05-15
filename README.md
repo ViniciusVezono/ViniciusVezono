@@ -1,23 +1,43 @@
-## Hi there 👋
+## 👋 Welcome to my GitHub profile
 
-<!--
-**ViniciusVezono/ViniciusVezono** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Olá, meu nome é **Vinícius Andrade Vezono** e sou **Desenvolvedor Full Stack em formação**, com experiência prática em desenvolvimento de sistemas web tanto no front-end quanto no back-end.
 
-Here are some ideas to get you started:
--->
+Tenho trabalhado com tecnologias como **React, Node.js, Express, MongoDB, TypeScript** e também possuo conhecimentos em **segurança na web** e **computação em nuvem**, sendo certificado como **AWS Cloud Practitioner**.
 
-- 🔭 I’m currently working on Node.js | Express | Typescript
-- 🌱 I’m currently learning Nest.js
-- 📫 How to reach me: Linkedin -> https://www.linkedin.com/in/vinicius-vezono/
+Atualmente estou aprimorando meus conhecimentos em **Nest.js** e sigo comprometido com aprendizado contínuo, boas práticas e colaboração em equipe.
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ViniciusVezono&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ViniciusVezono&hide=css,blade,html&layout=pie&&theme=radical)
+---
 
-##
+### 🚀 Tecnologias e Ferramentas
+
+- 💻 **Stack Atual**: Node.js | Express | TypeScript | React | PostgreSQL | MongoDB  
+- 🌱 **Aprendendo**: Nest.js  
+- ☁️ **Cloud**: AWS (Certified Cloud Practitioner - CLF-C02)  
+- 🔄 **Versionamento**: Git | GitHub  
+- 📋 **Metodologias**: Scrum | Agile  
+
+---
+
+### 📫 Como me encontrar
+
+- [LinkedIn](https://www.linkedin.com/in/vinicius-vezono/)
+- ✉️ vinicius.vezono123@gmail.com
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=ViniciusVezono&show_icons=true&theme=radical&hide_title=true&hide_rank=true" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ViniciusVezono&layout=compact&hide=css,blade,html&theme=radical" />
+</p>
+
+---
+
+### 🐍 Snake Contribution Graph
+
 <picture align="center">
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ViniciusVezono/ViniciusVezono/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ViniciusVezono/ViniciusVezono/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ViniciusVezono/ViniciusVezono/output/github-contribution-grid-snake.svg">
   <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/ViniciusVezono/ViniciusVezono/output/github-contribution-grid-snake.svg">
 </picture>
-
-
