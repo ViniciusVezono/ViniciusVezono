@@ -34,8 +34,6 @@ Atualmente estou aprimorando meus conhecimentos em **Nest.js** e sigo comprometi
 
 ---
 
-### 🐍 Snake Contribution Graph
-
 <picture align="center">
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ViniciusVezono/ViniciusVezono/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ViniciusVezono/ViniciusVezono/output/github-contribution-grid-snake.svg">
