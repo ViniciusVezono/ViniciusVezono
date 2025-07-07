@@ -1,6 +1,6 @@
 ## 👋 Welcome to my GitHub profile
 
-Olá, meu nome é **Vinícius Andrade Vezono** e sou **Desenvolvedor Full Stack em formação**, com experiência prática em desenvolvimento de sistemas web tanto no front-end quanto no back-end.
+Olá, meu nome é **Vinícius Andrade Vezono** e sou **Desenvolvedor Full Stack**, com experiência prática em desenvolvimento de sistemas web tanto no front-end quanto no back-end.
 
 Tenho trabalhado com tecnologias como **React, Node.js, Express, MongoDB, TypeScript** e também possuo conhecimentos em **segurança na web** e **computação em nuvem**, sendo certificado como **AWS Cloud Practitioner**.
 
