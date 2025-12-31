@@ -1,4 +1,4 @@
-## 👋 Welcome to my GitHub profile
+## 👋 Seja bem-vindo
 
 Olá, meu nome é **Vinícius Andrade Vezono** e sou **Desenvolvedor Full Stack**, com experiência prática em desenvolvimento de sistemas web tanto no front-end quanto no back-end.
 
