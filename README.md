@@ -28,8 +28,8 @@ Atualmente estou aprimorando meus conhecimentos em **Nest.js** e sigo comprometi
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=ViniciusVezono&show_icons=true&theme=radical&hide_title=true&hide_rank=true" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ViniciusVezono&layout=compact&hide=css,blade,html&theme=radical" />
+  <img height="160" src="https://github-readme-stats-fast.vercel.app/api?username=ViniciusVezono&show_icons=true&theme=radical&hide_title=true&hide_rank=true" />
+  <img height="160" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=ViniciusVezono&layout=compact&hide=css,blade,html&theme=radical" />
 </p>
 
 ---
