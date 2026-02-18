@@ -10,7 +10,7 @@ Atualmente estou aprimorando meus conhecimentos em **Nest.js** e sigo comprometi
 
 ### 🚀 Tecnologias e Ferramentas
 
-- 💻 **Stack Atual**: Node.js | Express | TypeScript | React | PostgreSQL | MongoDB | MySql
+- 💻 **Stack Atual**: Node.js | Laravel(PHP) | Express | TypeScript | React | PostgreSQL | MongoDB | MySql
 - 🌱 **Aprendendo**: Nest.js  
 - ☁️ **Cloud**: AWS (Certified Cloud Practitioner - CLF-C02)  
 - 🔄 **Versionamento**: Git | GitHub  
