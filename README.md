@@ -29,8 +29,8 @@ Atualmente estou aprimorando meus conhecimentos em **Nest.js** e sigo comprometi
 
 <p align="center">
   <img height="160" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=ViniciusVezono&layout=compact&hide=css,blade,html&theme=radical" />
+  <img height="160" src="https://github-readme-streak-stats.herokuapp.com/?user=ViniciusVezono&theme=tokyonight" alt="mystreak" />
 </p>
-
 ---
 
 <picture align="center">
